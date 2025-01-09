@@ -80,7 +80,7 @@ La evolución del diseño en México en sus diversas áreas, específicamente en
 
 ## Licencia
 
-Este proyecto se distribuye bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+Este proyecto se distribuye bajo la [GNU General Public License v3.0](LICENSE).
 
 ---
 
