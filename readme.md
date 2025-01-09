@@ -18,7 +18,7 @@
 ---
 ## Resumen
 
-Este proyecto de investigación examina de manera detallada la producción del diseño en México a lo largo de 35 años. Para abordar la complejidad de su evolución, se propone un enfoque sistemático y exhaustivo basado en métodos de mapeo que brinden una representación fiel de las diversas facetas del campo. Asimismo, el análisis de tendencias incluirá aspectos conceptuales y contextuales, enfatizando la influencia de factores socioeconómicos, tecnológicos y culturales que hayan moldeado el desarrollo del diseño en México durante el periodo estudiado.
+Este proyecto de investigación examina de manera detallada la evolución histórica del diseño en México a lo largo de 35 años, con énfasis en las transformaciones y la construcción de identidad en ámbitos como el diseño gráfico, tipográfico, industrial y de muebles. Para abordar la complejidad de este proceso, se propone un enfoque sistemático y exhaustivo basado en métodos de mapeo, lo cual permitirá representar fielmente las diversas facetas que han caracterizado al diseño mexicano en el periodo de estudio. Asimismo, el análisis de tendencias contemplará aspectos conceptuales y contextuales, subrayando la influencia de factores socioeconómicos, tecnológicos y culturales que han moldeado el desarrollo del diseño en México desde 1990 hasta la actualidad.
 
 ## Planteamiento del problema
 
