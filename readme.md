@@ -5,7 +5,7 @@
 
 ---
 
-## Responsables
+**Responsables**
 
 - **Dr. Manuel Guerrero Salinas**  
 - **Dra. Eréndida Cristina Mancilla González**  
