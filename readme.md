@@ -16,6 +16,9 @@
 <img src="/includes/logos.png" alt="" width="400">
 
 ---
+## Resumen
+
+Este proyecto de investigación examina de manera detallada la producción del diseño en México a lo largo de 35 años. Para abordar la complejidad de su evolución, se propone un enfoque sistemático y exhaustivo basado en métodos de mapeo que brinden una representación fiel de las diversas facetas del campo. Asimismo, el análisis de tendencias incluirá aspectos conceptuales y contextuales, enfatizando la influencia de factores socioeconómicos, tecnológicos y culturales que hayan moldeado el desarrollo del diseño en México durante el periodo estudiado.
 
 ## Descripción del Proyecto
 
