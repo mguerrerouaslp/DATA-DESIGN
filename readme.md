@@ -12,7 +12,7 @@
 
 **Universidad Autónoma de San Luis Potosí**
 
-![](/includes/logos.png)
+<img src="/includes/logos.png" alt="" width="400">
 
 ---
 
