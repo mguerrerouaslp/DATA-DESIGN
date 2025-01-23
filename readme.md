@@ -91,7 +91,10 @@ La evolución de las tendencias, influencias y prácticas en el diseño gráfico
 ---
 
 ## Etapas
-Descripción de [etapas](etapas.md).
+El proyecto se divide en tres [etapas](etapas.md) clave:
+1. Analizar la evolución del diseño en México, considerando factores sociales, políticos y económicos.
+2. Crear una base de datos detallada de la producción de diseño mexicano entre 2000 y 2025.
+3. Analizar y visualizar los datos recopilados.
 
 ## Licencia
 
