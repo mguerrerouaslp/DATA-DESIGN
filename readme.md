@@ -90,6 +90,9 @@ La evolución de las tendencias, influencias y prácticas en el diseño gráfico
 
 ---
 
+## Etapas
+Descripción de etapas [etapas.md](etapas).
+
 ## Licencia
 
 Este proyecto se distribuye bajo la [GNU General Public License v3.0](LICENSE).
