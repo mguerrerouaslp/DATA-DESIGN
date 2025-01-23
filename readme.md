@@ -17,10 +17,10 @@
 
 
 ---
-##Área del conocimiento
+## Área del conocimiento
 Humanidades	Arte y cultura	Estudios y procesos creativos en arte y diseño,	Otras	Diseño gráfico
 
-##Palabras clave
+## Palabras clave
 Bigdata, análisis de redes, base de datos, modelos predictivos, Tendencias y macrotendencias, data visualization, estilos e influencias, globalidad
 
 ---
