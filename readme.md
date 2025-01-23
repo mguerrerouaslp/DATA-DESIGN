@@ -91,7 +91,7 @@ La evolución de las tendencias, influencias y prácticas en el diseño gráfico
 ---
 
 ## Etapas
-Descripción de etapas [etapas.md](etapas).
+Descripción de etapas [etapas](etapas.md).
 
 ## Licencia
 
