@@ -3,7 +3,7 @@
 **Proyecto de Investigación**  
 **DATA - Design. Bases de datos para el diseño**
 
-<img src="/images/logos.png" alt="" width="400">
+<img src="/images/logos.png" alt="" width="600">
 ---
 
 **Responsables**
