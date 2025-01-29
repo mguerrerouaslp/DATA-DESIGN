@@ -49,7 +49,7 @@ En particular, se pretende analizar cómo los contextos históricos y sociales, 
 Este proyecto incorpora metodologías avanzadas de análisis de datos y aprendizaje automático, con el fin de identificar tendencias y estilos emergentes en el diseño. En este sentido, se busca desarrollar modelos predictivos capaces de anticipar las futuras tendencias en el diseño gráfico, tipográfico, industrial y de muebles en México.
 
 ---
-##Hipótesis
+## Hipótesis
 El mapeo detallado del diseño en México en las áreas de diseño gráfico, tipográfico, industrial y de muebles, durante el periodo de 2000 a 2025, utilizando análisis de redes y modelos predictivos, permitirá identificar interconexiones y patrones complejos que evidencien la evolución de tendencias, estilos y la influencia de actores clave en el diseño mexicano
 
 
