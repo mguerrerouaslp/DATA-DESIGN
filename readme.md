@@ -22,7 +22,19 @@
 Humanidades	Arte y cultura	Estudios y procesos creativos en arte y diseño,	Otras	Diseño gráfico
 
 ## Palabras clave
-Bigdata, análisis de redes, base de datos, modelos predictivos, Tendencias y macrotendencias, data visualization, estilos e influencias, globalidad
+Big data, análisis de redes, base de datos, modelos predictivos, Tendencias y macrotendencias, data visualization, estilos e influencias, globalidad.
+
+## Bases de Datos (Open Access)
+
+Como parte del compromiso con la ciencia abierta, este repositorio aloja conjuntos de datos estructurados para su consulta y análisis:
+
+* **`fonts.csv`**: Catálogo detallado de fuentes tipográficas, incluyendo variables de estilo, año de creación y autores.
+* **`foundries.csv`**: Registro de fundiciones tipográficas, casas de diseño y editoras digitales.
+
+---
+
+## Historial de Cambios
+Para consultar las actualizaciones del proyecto y de las bases de datos, revisa nuestro [CHANGELOG.md](CHANGELOG.md).
 
 ---
 ## Resumen
@@ -48,54 +60,11 @@ En particular, se pretende analizar cómo los contextos históricos y sociales, 
 
 Este proyecto incorpora metodologías avanzadas de análisis de datos y aprendizaje automático, con el fin de identificar tendencias y estilos emergentes en el diseño. En este sentido, se busca desarrollar modelos predictivos capaces de anticipar las futuras tendencias en el diseño gráfico, tipográfico, industrial y de muebles en México.
 
----
-## Hipótesis
-El mapeo detallado del diseño en México en las áreas de diseño gráfico, tipográfico, industrial y de muebles, durante el periodo de 2000 a 2025, utilizando análisis de redes y modelos predictivos, permitirá identificar interconexiones y patrones complejos que evidencien la evolución de tendencias, estilos y la influencia de actores clave en el diseño mexicano
-
-
-### Pregunta General
-
-**¿Cómo ha evolucionado el diseño en México en las áreas de diseño gráfico, tipográfico, industrial y de muebles, y qué factores históricos, sociales, culturales y tecnológicos han influido en estos cambios entre 2000 y 2025?**
-
----
 
 ## Objetivo General
 
 Analizar la evolución del diseño en México entre 2000 y 2025, identificando los factores históricos, sociales, culturales y tecnológicos que han influido en el desarrollo de las áreas de diseño gráfico, tipográfico, industrial y de muebles.
 
----
-
-### P1
-**¿Cuáles han sido las principales etapas en la evolución del diseño en México y qué factores sociales, políticos y económicos han influido en su desarrollo?**
-
-**Objetivos específicos 1:**
-- Identificar las etapas clave en la evolución del diseño en México.
-- Analizar los factores sociales, políticos y económicos que han moldeado el diseño mexicano.
-- Evaluar cómo estos factores han influido en la configuración de estilos y tendencias en diseño gráfico, tipográfico, industrial y de muebles.
-
----
-
-### P2
-**¿Cómo pueden los métodos de análisis de datos y aprendizaje automático identificar y predecir patrones y tendencias en las áreas de diseño gráfico, tipográfico, industrial y de muebles en México entre 2000 y 2025?**
-
-**Objetivos específicos 2:**
-- Generar una base de datos exhaustiva y estructurada que documente y organice pa producción del diseño mexicano.
-- Diseñar modelos predictivos basados en aprendizaje automático para anticipar tendencias futuras en diseño gráfico, tipográfico, industrial y de muebles.
-- Examinar la influencia de factores históricos, culturales y tecnológicos en la configuración de estas tendencias.
-
----
-
-## Objeto de Estudio
-
-La evolución de las tendencias, influencias y prácticas en el diseño gráfico, tipográfico, industrial y de muebles en México durante el periodo comprendido entre 2000 y 2025
-
----
-
-## Etapas
-El proyecto se divide en tres [etapas](etapas.md) clave:
-1. Analizar la evolución del diseño en México, considerando factores sociales, políticos y económicos.
-2. Crear una base de datos detallada de la producción de diseño mexicano entre 2000 y 2025.
-3. Analizar y visualizar los datos recopilados.
 
 ## Licencia
 
