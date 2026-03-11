@@ -28,8 +28,8 @@ Big data, análisis de redes, base de datos, modelos predictivos, Tendencias y m
 
 Como parte del compromiso con la ciencia abierta, este repositorio aloja conjuntos de datos estructurados para su consulta y análisis:
 
-* **`fonts.csv`**: Catálogo detallado de fuentes tipográficas, incluyendo variables de estilo, año de creación y autores.
-* **`foundries.csv`**: Registro de fundiciones tipográficas, casas de diseño y editoras digitales.
+* **`fonts.json`**: Catálogo detallado de fuentes tipográficas, incluyendo variables de estilo, año de creación y autores.
+* **`foundries.json`**: Registro de fundiciones tipográficas, casas de diseño y editoras digitales.
 
 ---
 
